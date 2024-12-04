@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Duc Thai\\SimThe\\MobileSim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D693814-4371-4EBE-B72C-117CFA34779E}|MobileSim\\MobileSim.csproj|c:\\users\\duc thai\\simthe\\mobilesim\\mobilesim\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D693814-4371-4EBE-B72C-117CFA34779E}|MobileSim\\MobileSim.csproj|solutionrelative:mobilesim\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D693814-4371-4EBE-B72C-117CFA34779E}|MobileSim\\MobileSim.csproj|c:\\users\\duc thai\\simthe\\mobilesim\\mobilesim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D693814-4371-4EBE-B72C-117CFA34779E}|MobileSim\\MobileSim.csproj|solutionrelative:mobilesim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D693814-4371-4EBE-B72C-117CFA34779E}|MobileSim\\MobileSim.csproj|c:\\users\\duc thai\\simthe\\mobilesim\\mobilesim\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D693814-4371-4EBE-B72C-117CFA34779E}|MobileSim\\MobileSim.csproj|solutionrelative:mobilesim\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D693814-4371-4EBE-B72C-117CFA34779E}|MobileSim\\MobileSim.csproj|c:\\users\\duc thai\\simthe\\mobilesim\\mobilesim\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D693814-4371-4EBE-B72C-117CFA34779E}|MobileSim\\MobileSim.csproj|solutionrelative:mobilesim\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D693814-4371-4EBE-B72C-117CFA34779E}|MobileSim\\MobileSim.csproj|c:\\users\\duc thai\\simthe\\mobilesim\\mobilesim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D693814-4371-4EBE-B72C-117CFA34779E}|MobileSim\\MobileSim.csproj|solutionrelative:mobilesim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D693814-4371-4EBE-B72C-117CFA34779E}|MobileSim\\MobileSim.csproj|c:\\users\\duc thai\\simthe\\mobilesim\\mobilesim\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D693814-4371-4EBE-B72C-117CFA34779E}|MobileSim\\MobileSim.csproj|solutionrelative:mobilesim\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D693814-4371-4EBE-B72C-117CFA34779E}|MobileSim\\MobileSim.csproj|c:\\users\\duc thai\\simthe\\mobilesim\\mobilesim\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D693814-4371-4EBE-B72C-117CFA34779E}|MobileSim\\MobileSim.csproj|solutionrelative:mobilesim\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 87,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Duc Thai\\SimThe\\MobileSim\\MobileSim\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "MobileSim\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Duc Thai\\SimThe\\MobileSim\\MobileSim\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "MobileSim\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:05:46.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Duc Thai\\SimThe\\MobileSim\\MobileSim\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "MobileSim\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Duc Thai\\SimThe\\MobileSim\\MobileSim\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "MobileSim\\Models\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:05:29.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Duc Thai\\SimThe\\MobileSim\\MobileSim\\appsettings.json",
+              "RelativeDocumentMoniker": "MobileSim\\appsettings.json",
+              "ToolTip": "C:\\Users\\Duc Thai\\SimThe\\MobileSim\\MobileSim\\appsettings.json",
+              "RelativeToolTip": "MobileSim\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T08:40:27.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Duc Thai\\SimThe\\MobileSim\\MobileSim\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MobileSim\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Duc Thai\\SimThe\\MobileSim\\MobileSim\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MobileSim\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:39:42.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Duc Thai\\SimThe\\MobileSim\\MobileSim\\Program.cs",
+              "RelativeDocumentMoniker": "MobileSim\\Program.cs",
+              "ToolTip": "C:\\Users\\Duc Thai\\SimThe\\MobileSim\\MobileSim\\Program.cs",
+              "RelativeToolTip": "MobileSim\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:39:15.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Duc Thai\\SimThe\\MobileSim\\MobileSim\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MobileSim\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Duc Thai\\SimThe\\MobileSim\\MobileSim\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MobileSim\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:38:54.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Duc Thai\\SimThe\\MobileSim\\MobileSim\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MobileSim\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Duc Thai\\SimThe\\MobileSim\\MobileSim\\Models\\User.cs",
+              "RelativeToolTip": "MobileSim\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:38:04.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
